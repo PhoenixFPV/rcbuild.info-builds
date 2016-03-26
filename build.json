@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "UnknownManufacturer/readymaderc/SpaceOne---Formula-One-F1---220mm---4.5mm-CF",
+    "esc": "Favorite/LittleBee-20A",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "AbuseMark/Acro-Naze32-rev6",
+    "prop": [
+      "DAL/4x4.5-Bullnose-Propeller-(Set-of-4---Red)"
+    ],
+    "arm": "",
+    "battery": [
+      "Lumenier/1300mAh-3s-35c-Lipo"
+    ],
+    "osd": "DTF-UHF/OSDoge-OSD-for-the-Naze32",
+    "receiver": "FrSky/D6FR",
+    "flightcam": "",
+    "hqcam": "GoPro/HERO3-Silver-Edition",
+    "videotx": "Lift-RC/200-mW-Raceband-40-Channel-VTX",
+    "blackbox": "ReadyToFlyQuads/SD-Data-Logger",
+    "voltagereg": ""
+  },
+  "version": 1
 }
